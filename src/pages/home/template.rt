@@ -1,0 +1,5 @@
+<rt-import name="default" as="styles" from="./styles.js"/>
+<rt-import name="css" from="aphrodite"/>
+<div className={css(styles.red)}>
+	Hello world !!
+</div>
